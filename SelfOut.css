@@ -1,0 +1,69 @@
+h1
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    width: 95%;
+    padding: 20px;
+    border-radius: 60px;
+    font-size: 50px;
+}
+
+h1:hover
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    width: 95%;
+    padding: 20px;
+    border-radius: 60px;
+    font-size: 70px;
+}
+
+h4, h5, h3, p
+{
+    font-family: 'Lobster', sans-serif;
+    color: black;
+}
+
+body
+{
+    background: linear-gradient(to right,rgb(94, 214, 255), rgb(155, 255, 155), rgb(255, 255, 61));
+}
+
+hr
+{
+    height: 5px;
+    border-color: black;
+}
+
+#camera
+{
+    border: 5px dotted gray;
+    height: 400px;
+    width: 500px;
+}
+
+.BDesign:hover
+{
+    font-size: 30px;
+    color: black;
+}
+
+.FOTPage
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family:'Kdam Thmor Pro', sans-serif;
+}
+
+.FOTPage:hover
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family:'Kdam Thmor Pro', sans-serif;
+    font-size: 25px;
+}
+
+#TextSelfOut
+{
+    text-align: center;
+}
